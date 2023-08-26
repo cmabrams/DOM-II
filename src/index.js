@@ -1,3 +1,4 @@
 import './less/index.less'
 
-// Your code goes here!
+const eventListenerForNavBar  = document.querySelectorAll('.nav');
+console.log(eventListenerForNavBar)
